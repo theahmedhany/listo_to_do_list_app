@@ -34,7 +34,7 @@ I am pleased to present **Listo**, a streamlined, user-friendly to-do list appli
 https://github.com/user-attachments/assets/0a0d726c-63cd-45a5-8da3-9718549bb368
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_cognoriseinfotech-internship-listo-activity-7241126777635426304-Aw92?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
